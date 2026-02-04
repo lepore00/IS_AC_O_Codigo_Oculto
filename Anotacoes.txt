@@ -1,0 +1,46 @@
+08/10/2025
+
+Felipe Hardmann
+
+Github: https://github.com/felipehardmann
+
+---------------------------------------------------------------------------------------
+
+https://github.com/FelipeHardmann/aulas_python_lp_datascience/blob/main/Notebooks/workshops/WS_ia_bugs.ipynb
+
+IA
+    ramo de Tecnologia
+        - IA Fraca: Chatbot - Executa fluxo
+        - IA Forte: Conceito - Loígica humana, totalmente autonoma
+        - IA Generativa: Aprende com o que é ensinado
+
+IA p/ Desenvolvedor
+    - Assistencia em códigos fáceis
+    - Analise de Bugs
+    - Criar testes no código
+    - Refatoração, para melhorar código
+    - Documentação, para faciliar a criação de documentos e manuais
+    - Aprender conceitos e bibliotecas
+
+Ferramentas para Desenvolvedor 
+    - Github copilot
+        - Não ajuda a Aprender
+        - Funciona com modelo OpenIA
+    - ChatGPT / Claude / DeepSeek
+    - CodiumAI / Codeium
+
+Bom prompt
+    - Análise de segurança
+        - SQL Injection
+        - XSS
+        - Injeção de Comandos
+        - Manupulação de arquivos
+
+    - Sempre validar, testar e revisar
+        - Código e padrão da equipe
+
+IA é uma aliada e não atalho de quem não entende o código, vira refém
+
+
+** Leet Code
+    Para aprender e entrar nas grandes empresas
